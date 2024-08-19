@@ -12,7 +12,7 @@ A massive volume of system failure data is generated during testing. Manual anal
 ![image](https://github.com/user-attachments/assets/af47e267-5918-4b66-b0d8-ed503ab46e3d)
 - (a) Validation DBI with different number of kernel size and epochs. (b) Validation DBI with different number of Filters and epochs. (c) Validation DBI with different optimizer and learning rates.
 #  Hyperparameter tuning tested range and selected values
-![Picture1](https://github.com/user-attachments/assets/8c2a1634-d4f8-476e-b68c-50f78882590d)
+![Picture3](https://github.com/user-attachments/assets/b8ddcfeb-0104-4ed3-8539-0d8105ddb130)
 # Davies-Bouldin Index Score with Different Number of clusters
 ![image](https://github.com/user-attachments/assets/93f13616-cab2-44f6-841e-c73d79b7a026)
 - DBI Score is 0.4754898219990414 for two clusters, 0.48726179118994806 for four clusters, and 0.5111786312928929 for nine clusters
